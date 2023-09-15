@@ -1,11 +1,11 @@
 {
     "id": "746E53AA",
-    "path": null,
-    "project_path": null,
+    "path": "Z:/Applied Analytics/APPLIED ANALYTICS/credit R simulation Linear regression.R",
+    "project_path": "credit R simulation Linear regression.R",
     "type": "r_source",
-    "hash": "0",
+    "hash": "4190339260",
     "contents": "",
-    "dirty": true,
+    "dirty": false,
     "created": 1694718214913.0,
     "source_on_save": false,
     "relative_order": 1,
@@ -17,11 +17,11 @@
         "scrollLine": "48"
     },
     "folds": "",
-    "lastKnownWriteTime": 7812735333433176641,
-    "encoding": "",
+    "lastKnownWriteTime": 1694726226,
+    "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1694725799792,
+    "last_content_update": 1694726226709,
     "read_only": false,
     "read_only_alternatives": []
 }
